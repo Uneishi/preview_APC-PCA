@@ -4,7 +4,7 @@ export default function Header() {
 
   return (
     <nav className="navbar navbar-light bg-primary px-4 d-flex justify-content-between sticky-top">
-      <span className="navbar-brand fw-bold">{t('site.name')}</span>
+      <img src="/images/logo.png" alt="Logo" width="40" height="40" />
       <div>
         <button className="btn bg-warning btn-sm btn-outline-secondary me-2" onClick={() => i18n.changeLanguage('en')}>EN</button>
         <button className="btn bg-warning btn-sm btn-outline-secondary me-2" onClick={() => i18n.changeLanguage('fr')}>FR</button>
