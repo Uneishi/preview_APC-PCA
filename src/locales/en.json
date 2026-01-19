@@ -1,0 +1,34 @@
+{
+  "site": { "name": "AIDE POST CONFLIT – POST CONFLICT AID APC-PCA" },
+  "hero": {
+    "title": "Healing Lives Beyond Conflict",
+    "subtitle": "APC-PCA is a Swiss non-profit association dedicated to supporting populations affected by war and displacement. We work at the intersection of psychological care, rehabilitation, education, and international cooperation to help individuals and communities rebuild their lives after conflict."
+  },
+  "about": {
+    "title": "Our Mission",
+    "text": "APC-PCA works at the intersection of psychological care, rehabilitation, education, and international cooperation to help individuals and communities rebuild their lives after conflict."
+  },
+  "service":{
+    "title": "Our Services",
+    "support": "Who we support\n\nChildren affected by war and traumatic events\n\nRefugees returning to their country of origin\n\nInternally displaced persons\n\nCommunities living in conflict or post-conflict zones",
+    "wedo": "What we do\n\nProvide psychological support and trauma-informed therapy for children and displaced persons\n\nDevelop and support rehabilitation and retreat centres for psychological and physical recovery\n\nOrganize individual and group therapy programs focused on stress and trauma reduction\n\nPromote education and training in mental health, resilience, and trauma care\n\nSupport scientific research at the intersection of psychology and pedagogy\n\nEncourage international cooperation and professional exchange",
+    "approach": "Our Approach\n\nWe believe that healing after conflict requires a holistic and long-term approach — combining psychological care, physical rehabilitation, education, and safe spaces where individuals can recover dignity, stability, and hope.",
+    "ourMission": "Our Mission\n\nTo contribute to the recovery and resilience of populations affected by conflict by creating sustainable structures of care, advancing knowledge on trauma, and supporting the developmental potential of children and adults impacted by war."
+  },
+  "donation": {
+    "title": "Support Our Cause",
+    "text": "Your generous donations help us provide essential services to those affected by conflict. Join us in making a difference."
+  },
+  "gallery": {
+    "title": "Gallery" 
+   },
+  "contact": {
+    "title": "Connect for Healing & Hope",
+    "description": "Reach out to learn more about our work or how you can support our mission.",
+    "nameContact": "Name",
+    "emailContact": "Email",
+    "messageContact": "Message",
+    "sendContact": "Send"
+  },
+  "footer": { "copyright": "© APC-PCA – Post Conflict Aid" }
+}

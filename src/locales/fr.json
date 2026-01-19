@@ -1,0 +1,34 @@
+{
+  "site": { "name": "AIDE POST CONFLIT – POST CONFLICT AID APC-PCA" },
+  "hero": {
+    "title": "Soigner les vies après les conflits",
+    "subtitle": "APC-PCA est une association suisse à but non lucratif dédiée à soutenir les populations affectées par la guerre et les déplacements. Nous travaillons à l'intersection des soins psychologiques, de la réadaptation, de l'éducation et de la coopération internationale pour aider les individus et les communautés à reconstruire leur vie après un conflit."
+  },
+  "about": {
+    "title": "Notre mission",
+    "text": "APC-PCA agit à l’intersection des soins psychologiques, de la réadaptation, de l’éducation et de la coopération internationale afin d’aider les individus et les communautés à reconstruire leur vie après les conflits."
+  },
+  "service":{
+    "title": "Nos services",
+    "support": "Qui nous soutenons\n\nEnfants affectés par la guerre et les événements traumatisants\n\néfugiés retournant dans leur pays d'origine\n\nPersonnes déplacées internes\n\nCommunautés vivant dans des zones de conflit ou post-conflit",
+    "wedo": "Ce que nous faisons\n\nFournir un soutien psychologique et une thérapie sensible au traumatisme pour les enfants et les personnes déplacées\n\nDévelopper et soutenir des centres de rééducation et de retrait pour la récupération psychologique et physique\n\nOrganiser des programmes de thérapie individuelle et de groupe axés sur la réduction du stress et du traumatisme\n\nPromouvoir l'éducation et la formation en santé mentale, résilience, et soins du traumatisme\n\nSoutenir la recherche scientifique à l'intersection de la psychologie et de la pédagogie\n\nEncourager la coopération internationale et l'échange professionnel",
+    "approach": "Notre approche\n\nNous croyons que le processus de guérison après un conflit nécessite une approche holistique à long terme — combinant soins psychologiques, rééducation physique, éducation, et espaces sûrs où les individus peuvent retrouver dignité, stabilité, et espoir.",
+    "ourMission": "Notre mission\n\nContribuer à la récupération et à la résilience des populations touchées par un conflit en créant des structures de soins durables, en avançant les connaissances sur le traumatisme, et en soutenant le potentiel développemental des enfants et adultes impactés par la guerre."
+  },
+  "donation": {
+    "title": "Soutenez notre cause",
+    "text": "Vos dons généreux nous aident à fournir des services essentiels aux personnes touchées par les conflits. Rejoignez-nous pour faire une différence."
+  },
+  "gallery": {
+    "title": "Galerie" 
+   },
+  "contact": {
+    "title": "Contactez pour guérir et espérer",
+    "description": "Contactez-nous pour en savoir plus sur notre travail ou comment vous pouvez soutenir notre mission.",
+    "nameContact": "Nom",
+    "emailContact": "Email",
+    "messageContact": "Message",
+    "sendContact": "Envoyer"
+  },
+  "footer": { "copyright": "© APC-PCA – Aide post-conflit" }
+}
